@@ -8,8 +8,11 @@ Name's Bultuir.
 
 You can contact me on:
 
-- Discord
-- Telegram
+- Github - [@bultuir](https://github.com/bultuir)
+- Discord - [@bultuir](https://discord.com/users/1413948681786364054)
+- Telegram - [@bultuir](https://t.me/bultuir)
+
+P.S. copy nickname and search for it if the link doesn't work.
 
 ## Self-introduction
 
